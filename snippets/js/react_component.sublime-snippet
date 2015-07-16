@@ -2,15 +2,15 @@
     <content><![CDATA[
 import {React, Component} from 'react';
 
-export default class ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}} extends Component({
+export default class ${1:${TM_FILENAME/(.?\w*)(?:\.\w+)*$/$1/g}} extends Component {
 
 	render() {
 		return (
-			${0:<div />}
+			${0:<div></div>}
 		);
 	}
 
-});
+};
 
 ]]></content>
     <tabTrigger>rcc</tabTrigger>
