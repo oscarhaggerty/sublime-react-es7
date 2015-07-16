@@ -1,12 +1,10 @@
 <snippet>
     <content><![CDATA[
-getInitialState() {
-	return {
-		${1}: ${2}
-	};
+state = {
+	${1}: ${2}
 }
 ]]></content>
-    <tabTrigger>gis</tabTrigger>
+    <tabTrigger>st</tabTrigger>
     <scope>source.js</scope>
-    <description>React: getInitialState() { return {...} } </description>
+    <description>state = { ... }</description>
 </snippet>
