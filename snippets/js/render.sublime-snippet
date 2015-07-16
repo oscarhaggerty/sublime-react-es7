@@ -1,12 +1,12 @@
 <snippet>
     <content><![CDATA[
-render: function() {
+render() {
 	return (
-		${1:<div />}
+		${1:<div></div>}
 	);
 }
 ]]></content>
     <tabTrigger>ren</tabTrigger>
     <scope>source.js</scope>
-    <description>React: render: fn() { return ... }</description>
+    <description>React: render() { return ... }</description>
 </snippet>
