@@ -2,7 +2,7 @@
     <content><![CDATA[
 state = {
 	${1}: ${2}
-}
+};
 ]]></content>
     <tabTrigger>st</tabTrigger>
     <scope>source.js</scope>
