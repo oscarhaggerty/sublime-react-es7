@@ -1,12 +1,10 @@
 <snippet>
     <content><![CDATA[
-getDefaultProps() {
-	return {
-		${1}
-	};
-}
+static defaultProps = {
+	${1}
+};
 ]]></content>
-    <tabTrigger>gdp</tabTrigger>
+    <tabTrigger>dp</tabTrigger>
     <scope>source.js</scope>
-    <description>React: getDefaultProps() { return {...} } </description>
+    <description>React: static defaultProps = { ... } </description>
 </snippet>
