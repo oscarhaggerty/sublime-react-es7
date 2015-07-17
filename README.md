@@ -1,4 +1,4 @@
-# This are my own custom forked bindings. They will be updated frequently as I develop my work flow.
+### These are my own custom forked bindings. They will be updated frequently as I develop my work flow.
 
 # sublime-react
 
