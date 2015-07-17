@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-static propTypes = {
+propTypes: {
 	${1}: React.PropTypes.${2:string}
 };
 ]]></content>

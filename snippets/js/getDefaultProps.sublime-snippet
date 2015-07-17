@@ -1,8 +1,8 @@
 <snippet>
     <content><![CDATA[
-getDefaultProps: function() {
+getDefaultProps() {
 	return {
-		${1}
+		${1}: ${2}
 	};
 },
 ]]></content>
