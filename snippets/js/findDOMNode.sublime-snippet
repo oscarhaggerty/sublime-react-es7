@@ -1,6 +1,6 @@
 <snippet>
     <content><![CDATA[
-React.findDOMNode(${1})
+React.findDOMNode(${1})${2}
 ]]></content>
     <tabTrigger>fdn</tabTrigger>
     <scope>source.js</scope>
